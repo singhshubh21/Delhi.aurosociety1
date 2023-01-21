@@ -1,0 +1,41 @@
+﻿@media only screen and (max-width:439px){
+    #title {
+        font-size: 1.5rem;
+        margin-left: 6rem !important;
+        margin-top: 1.5rem !important;
+    }
+    .imglogo {
+        width: 5rem !important;
+    }
+}
+
+
+@media only screen and (min-width: 440px) and (max-width:575px){
+    #title {
+        margin-left: 8.5rem;
+    }
+}
+
+@media only screen and (min-width: 421px) and (max-width:654px) {
+    .titleheading {
+        font-display: auto;
+        padding-left: 10px;
+        justify-content: center;
+    }
+}
+
+
+.container-fluid {
+    background-color: #808080;
+    color: white;
+    height: auto;
+    margin-top: -5px;
+}
+#btn{
+    justify-content:end;
+}
+
+#menubardiv{
+    background-color:blue !important;
+}
+
